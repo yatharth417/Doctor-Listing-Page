@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialties": ["Cardiology", "Internal Medicine"],
+    "fees": 150,
+    "experience": 12,
+    "ratings": 4.8,
+    "consultation_type": "In Clinic",
+    "image": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Chen",
+    "specialties": ["Pediatrics"],
+    "fees": 120,
+    "experience": 8,
+    "ratings": 4.6,
+    "consultation_type": "Video Consult",
+    "image": "https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Rodriguez",
+    "specialties": ["Dermatology"],
+    "fees": 180,
+    "experience": 15,
+    "ratings": 4.9,
+    "consultation_type": "In Clinic",
+    "image": "https://images.pexels.com/photos/5407206/pexels-photo-5407206.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. James Wilson",
+    "specialties": ["Orthopedics", "Sports Medicine"],
+    "fees": 200,
+    "experience": 20,
+    "ratings": 4.7,
+    "consultation_type": "Video Consult",
+    "image": "https://images.pexels.com/photos/5452291/pexels-photo-5452291.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Lisa Thompson",
+    "specialties": ["Gynecology", "Obstetrics"],
+    "fees": 160,
+    "experience": 10,
+    "ratings": 4.5,
+    "consultation_type": "In Clinic",
+    "image": "https://images.pexels.com/photos/5214958/pexels-photo-5214958.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. David Kim",
+    "specialties": ["Neurology"],
+    "fees": 220,
+    "experience": 18,
+    "ratings": 4.8,
+    "consultation_type": "Video Consult",
+    "image": "https://images.pexels.com/photos/5452268/pexels-photo-5452268.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Maria Garcia",
+    "specialties": ["Family Medicine", "Pediatrics"],
+    "fees": 130,
+    "experience": 9,
+    "ratings": 4.7,
+    "consultation_type": "In Clinic",
+    "image": "https://images.pexels.com/photos/5214949/pexels-photo-5214949.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Robert Taylor",
+    "specialties": ["Psychiatry"],
+    "fees": 190,
+    "experience": 14,
+    "ratings": 4.6,
+    "consultation_type": "Video Consult",
+    "image": "https://images.pexels.com/photos/5452289/pexels-photo-5452289.jpeg"
+  }
+]
